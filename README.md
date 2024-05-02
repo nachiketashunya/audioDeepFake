@@ -19,7 +19,7 @@ The models are trained on a combination of:
 
 Pre-trained models for each architecture are available for download at the following location:
 
-[link_to_download_models]
+[models](https://drive.google.com/drive/folders/1OPlH3LZWOP3HBoELXBt82WS5cDVXJCYv?usp=sharing)
 
 **Audio Inference:**
 
@@ -28,12 +28,6 @@ To analyze an audio file and determine its likelihood of being a deepfake, run t
 ```bash
 python main.py audio_path
 ```
-
-
-audioDeepFake
-==============================
-
-This project is for Audio Deep Fake detection.
 
 Project Organization
 ------------
